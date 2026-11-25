@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:25/11/2026
+## Reference Number:26017226
+## Name:shruti T
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,49 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+Our solution is a digital marketplace that connects farmers directly with consumers and bulk buyers. It reduces middlemen, provides better prices for farmers and affordable products for consumers. AI helps predict demand and optimize delivery routes.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+Technologies Used
+Frontend: HTML, CSS, JavaScript.
+Backend: Python and Django.
+Database: SQLite / MySQL.
+AI/ML: Pandas, NumPy and Scikit-learn for demand prediction.
+Tools: VS Code, Git and GitHub.
+2. Methodology and Implementation
+Register: Farmers and consumers create accounts.
+Connect: Farmers list their agricultural products.
+Discover: Consumers explore fresh products and prices.
+Predict: AI forecasts product demand using sales data.
+Order: Consumers purchase directly from farmers.
+Deliver: Orders are processed for delivery.
+Improve: Feedback helps improve the platform.Technologies Used
+<img width="145" height="218" alt="image" src="https://github.com/user-attachments/assets/ee1d311b-11f0-40aa-94bc-c4c22e856148" />
+
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+Feasibility: The platform can be developed using affordable and easily available technologies.
+
+Challenges:
+- Internet connectivity.
+- Transportation difficulties.
+- Digital awareness among farmers.
+
+Solutions:
+- Simple user interface.
+- Local transport support.
+- Farmer training and guidance.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+Connect: Farmers list their agricultural products.
+Discover: Consumers explore fresh products and prices.
+Predict: AI forecasts product demand using sales data.
+Order: Consumers purchase directly from farmers.
+Deliver: Orders are processed for delivery.
+Improve: Feedback helps improve the platform.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+1. e-NAM – https://enam.gov.in/
+2. Digital India – https://www.digitalindia.gov.in/
+3. Ministry of Agriculture – https://agriwelfare.gov.in/
+4. FAO – https://www.fao.org/
